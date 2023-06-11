@@ -1,8 +1,8 @@
 {
-  "name": "web-package-export",
+  "name": "web-npm-template",
   "version": "1.0.0",
   "type": "module",
-  "description": "获取包的所有导出 API",
+  "description": "npm template for web project",
   "main": "./dist/index.mjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
